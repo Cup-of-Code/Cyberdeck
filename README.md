@@ -1,4 +1,4 @@
-#Building a cyberdeck - a lesson in hacking the matrix
+# Building a cyberdeck - A quest of hacking the matrix
 * What's a **cyberdeck**, you ask??
 
     - *"A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace. [...] In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic." - [cyberdeck.cafe](https://www.cyberdeck.cafe)*
