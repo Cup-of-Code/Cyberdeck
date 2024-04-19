@@ -1,5 +1,7 @@
 # Cyberdeck
-### Below is an overview of my ongoing cyberdeck build
+![Cyberdeck1](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703)
+
+### I have been working on this project for some time and decided I wanted to document the process while I work on the last steps to finish it.
 
 IDEA: Inspired by the technology in William Gibson's book Neuromancer, a lot of people have been building their own version of a cyberdeck. What is a cyberdeck you ask? 
 According to [cyberdeck.cafe](https://www.cyberdeck.cafe): 
@@ -8,8 +10,7 @@ According to [cyberdeck.cafe](https://www.cyberdeck.cafe):
 
 Being inspired by the decks that are showcased on the website as well as the [r/cyberdeck](https://www.reddit.com/r/cyberdeck) subreddit I came up with my own version of an artisian crafted computer. A dual screen, mechanical keyboard, Raspberry Pi powered "portable" computer. Below you can see an idea of what it could look like:
 
-![Cyberdeck1](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703)
-(This is approximately what it looks like now- with the exception that it is not in a working state atm)
+
 
 The shell of the deck is designed by me in Fusion360 with the model looking like this: 
 
