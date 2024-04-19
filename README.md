@@ -6,7 +6,7 @@ According to cyberdeck.cafe:
 
   "A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace". "In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic."
 
-Being inspired by the decks that are showcased on the website as well as the r/cyberdeck subreddit I came up with my own version of an artisian crafted computer. A dual screen, mechanical keyboard, Raspberry Pi powered "portable" computer. Below you can see an idea of what it could look like:
+Being inspired by the decks that are showcased on the website as well as the [![r/cyberdeck](reddit.com/r/cyberdeck) subreddit I came up with my own version of an artisian crafted computer. A dual screen, mechanical keyboard, Raspberry Pi powered "portable" computer. Below you can see an idea of what it could look like:
 
 ![Cyberdeck1](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703)
 (This is approximately what it looks like now- with the exception that it is not in a working state atm)
@@ -25,6 +25,7 @@ Hardware List:
   - Honey and milk XDA keycap set.
 * Raspberry Pi 5 8GB version.
 * A small 4 port USB A 3.0 hub.
-* (and a whooole lot of cables)
+* Some type of battery power solution (TBD since the Pi5 has higher power recuirements than the Pi4).
+* (and a whooole lot of cables).
   
 
