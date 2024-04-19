@@ -15,5 +15,15 @@ The shell of the deck is designed by me in Fusion360 with the model looking like
 ![shell housing 3](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/1bec13af-5b7d-4786-8f1b-4792befdce49)
 (The honeycomb grip here will later be filled by individual hexagons printed in transparent PLA that will allow the passthrough of RGB backlight)
 
-
+Hardware List: 
+* 3D printed housing.
+* 2x 7" Waveshare LCD displays.
+* One mechanical keyboard:
+  - DZ60 RGB PCB,
+  - Gazzew Boba U4T silent tactile switches
+  - Honey and milk XDA keycap set.
+* Raspberry Pi 5 8GB version.
+* A small 4 port USB A 3.0 hub.
+* (and a whooole lot of cables)
+  
 
