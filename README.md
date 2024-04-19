@@ -1,7 +1,9 @@
 # Building a cyberdeck - A quest of hacking the matrix
-* What's a **cyberdeck**, you ask??
+* "What's a **cyberdeck?**", you ask.
 
-    - *"A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace. [...] In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic." - [cyberdeck.cafe](https://www.cyberdeck.cafe)*
+  
+  >*"A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace. [...] In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic."*
+   — [cyberdeck.cafe](https://www.cyberdeck.cafe)
 
 ![Cyberdeck1](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703)
 
@@ -19,6 +21,8 @@ Being inspired by the decks that are showcased on [cyberdeck.cafe](cyberdeck.caf
   
   ![shell housing 3](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/1bec13af-5b7d-4786-8f1b-4792befdce49)
   (The honeycomb grip here will later be filled by individual hexagons printed in transparent PLA that will allow the passthrough of RGB backlight)
+
+  The process of getting to this version of the housing was quite long. It took maaaanyy printed iterations and consequent design alterations before landing on the model above. And there is there room for improvement. Currently, the spacing between the edge of the screen, where the HDMI-in port sits, is too close to the edge of the housing, which makes it dificult to attach a HDMI cable that fits, therefore angled contacts and flat FFC cables are used instead.   
 </details>  
 
 <details>
