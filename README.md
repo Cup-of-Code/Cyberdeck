@@ -9,4 +9,5 @@ Here is a picture of what the project looks like currently:
 
 
 I designed the housing for all the parts in Fusion360 and this is what the approximate model looks like: 
-![Shell Picture 3](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/d755b341-90d9-4412-a1d1-0688a98256e9)
+
+![shell housing 3](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/1bec13af-5b7d-4786-8f1b-4792befdce49)
