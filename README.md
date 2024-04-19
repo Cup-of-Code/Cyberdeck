@@ -4,7 +4,7 @@
 IDEA: Inspired by the technology in William Gibson's book Neuromancer, a lot of people have been building their own version of a cyberdeck. What is a cyberdeck you ask? 
 According to ![cyberdeck.cafe](cyberdeck.cafe): 
 
-  "A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace". "In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic."
+*"A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace. [...] In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic."*
 
 Being inspired by the decks that are showcased on the website as well as the ![r/cyberdeck](reddit.com/r/cyberdeck) subreddit I came up with my own version of an artisian crafted computer. A dual screen, mechanical keyboard, Raspberry Pi powered "portable" computer. Below you can see an idea of what it could look like:
 
