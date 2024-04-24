@@ -6,6 +6,7 @@
 > — [cyberdeck.cafe](https://www.cyberdeck.cafe)
 
 <img src="https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703" alt="Cyberdeck1" width="50%" height="auto">
+(A picture of my cyberdeck build in its current state)
 
 ## Introduction
 I have been working on this project for some time and decided I wanted to document the process while I work on the last steps to finish it.
@@ -37,18 +38,16 @@ The journey to this design was filled with many iterations and design tweaks. Cu
 
 <details>
 <summary><strong>Build Guide</strong></summary>
-
-Detailed steps on assembling the cyberdeck, from the initial setup to the final touches.
+  TBD
 </details>
 
 <details>
 <summary><strong>Software</strong></summary>
+TBD
 
-Details on the operating system and software configurations used, including any custom scripts or applications developed for the cyberdeck.
 </details>
 
 <details>
 <summary><strong>Project Reflections</strong></summary>
-
-A look back at what was learned during the project, challenges faced, and how they were overcome.
+TBD
 </details>
