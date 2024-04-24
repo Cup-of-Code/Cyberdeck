@@ -5,8 +5,9 @@
 >"A cyberdeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or 'Deckers' to temporarily connect their mind or 'jack in' to cyberspace. [...] In the real world, cyberdecks are **Artisan Crafted Computers** often powered by single board computers with some sort of display and keyboard made in the cyberpunk aesthetic."
 > — [cyberdeck.cafe](https://www.cyberdeck.cafe)
 
-<img src="https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703" alt="Cyberdeck1" width="50%" height="auto">
-(A picture of my cyberdeck build in its current state)
+<img src="https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/b01c228d-b235-477c-a837-bdac2ef96703" alt="Cyberdeck1" width="50%" height="auto">(A picture of my cyberdeck build in its current state)
+<img src="https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/d2fdeedd-1518-48d4-8bf9-dea480ebb988" alt="Cyberdeck-shell" width ="50%" height="auto"> (3D model of the housing)
+
 
 ## Introduction
 I have been working on this project for some time and decided I wanted to document the process while I work on the last steps to finish it.
