@@ -18,7 +18,10 @@ Inspired by the technology in William Gibson's book *Neuromancer*, and the decks
 
 The shell of the deck is designed by me in Fusion360. The design includes a honeycomb grid that will be filled with individual hexagons printed in transparent PLA to allow RGB backlight pass-through.
 
+![shell housing 3](https://github.com/Cup-of-Code/Cyberdeck/assets/102232378/d2fdeedd-1518-48d4-8bf9-dea480ebb988)
 The journey to this design was filled with many iterations and design tweaks. Currently, adjustments are being made to the spacing around the HDMI-in port to better accommodate cables.
+
+
 </details>
 
 <details>
